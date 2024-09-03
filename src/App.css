@@ -1,0 +1,19 @@
+ body{
+    background-color: cadetblue;
+ }
+
+.card{
+    text-align: center;
+    border: 2px solid black;
+}
+
+.bt22{
+    background-color: red;
+    border-radius: 12px;
+    padding: 8px 15px;
+}
+
+.bt22:hover{
+    background-color: black;
+    color: white;
+}
